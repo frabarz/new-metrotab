@@ -10,6 +10,12 @@ However, the extension still keep most of its original code, so I think I can of
 
 I still have the intention to make a better new tab page extension (because I use Firefox, and its new tab page can do better), so you can keep an eye on this github account. This time I'll make it open source too, and try to set it with a better permission structure. Looking at the amount of permissions it requests, if I didn't knew what does it have inside, I'd probably not install it.
 
+### Translations of this file
+
+Thanks to the people that translated these instructions. I'd try to keep this list updated through the fork notifications.
+
+* [French - Français](https://github.com/thierry-laval/new-metrotab)
+
 ## How to backup my tiles?
 
 The main concern in the reviews right now is this. new metroTab stores the tiles in the browser's indexedDB for the extension, so we can retrieve them from there.
